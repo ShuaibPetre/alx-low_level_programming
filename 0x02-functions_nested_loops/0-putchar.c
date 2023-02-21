@@ -1,8 +1,8 @@
 #include <unistd.h>
 
 /**
- * _putchar writes _putchar to stdout
- * _putchar the string to print
+ * main function _putchar writes _putchar to stdout
+ * function _putchar the string to print
  *
  * Return: 0 Always success
  */
