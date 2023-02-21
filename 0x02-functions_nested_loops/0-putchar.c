@@ -2,7 +2,7 @@
 
 /**
  * main function _putchar writes _putchar to stdout
- * function _putchar the string to print
+ * description: _putchar the string to print
  *
  * Return: 0 Always success
  */
