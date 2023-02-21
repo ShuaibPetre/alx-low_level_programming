@@ -1,14 +1,13 @@
-#include <unistd.h>
+#include "main.h"
 
 /**
- * main function _putchar writes _putchar to stdout
- * description: _putchar the string to print
- *
- * Return: 0 Always success
+ * main - print putchar
+ * Return: always 0
  */
+
 int main(void)
 {
-	_putchar("_");
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
@@ -19,4 +18,5 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
+
 }
